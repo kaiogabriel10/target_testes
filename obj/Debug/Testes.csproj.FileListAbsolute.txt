@@ -1,0 +1,7 @@
+C:\Users\kaiog\source\repos\Testes\Testes\bin\Debug\Testes.exe.config
+C:\Users\kaiog\source\repos\Testes\Testes\bin\Debug\Testes.exe
+C:\Users\kaiog\source\repos\Testes\Testes\bin\Debug\Testes.pdb
+C:\Users\kaiog\source\repos\Testes\Testes\obj\Debug\Testes.csproj.AssemblyReference.cache
+C:\Users\kaiog\source\repos\Testes\Testes\obj\Debug\Testes.csproj.CoreCompileInputs.cache
+C:\Users\kaiog\source\repos\Testes\Testes\obj\Debug\Testes.exe
+C:\Users\kaiog\source\repos\Testes\Testes\obj\Debug\Testes.pdb
